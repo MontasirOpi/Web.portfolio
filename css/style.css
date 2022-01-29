@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&display=swap');
+
+body{
+    margin: 0%;
+    font-family: 'PT Serif', serif;
+    
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+ul li{
+    font-size: 25px;
+}
+.name-highlight{
+    color: rgb(228, 41, 41);
+}
+.half_witgh{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half_witgh img{
+    width: 80%;
+}
+
+
+.t-banner{
+    border: 5px rebeccapurple;
+    background-image: url("images/");
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(241, 95, 95), rgb(241, 24, 24));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
